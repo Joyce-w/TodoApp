@@ -1,0 +1,9 @@
+.completed{
+  text-decoration: line-through;
+  color: rgb(174, 182, 185);
+}
+
+div{
+  width: 30vw;
+  margin: 10% 35%;
+}
